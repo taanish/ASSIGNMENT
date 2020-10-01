@@ -1,4 +1,5 @@
 #this is my  ASSIGNMENT using python.
+#loved the way, but you can use variables to store long commands and call it whenever you need to make high use of code
 import sqlite3
 import sqlalchemy
 from sqlalchemy import inspect
